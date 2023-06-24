@@ -1,0 +1,7 @@
+{
+    "customer_id" :123456,
+    "customer_name": "Amit Kumar",
+    "location": "Krakow, Poland",
+    "other_data": "Based on Requirement"
+
+}
